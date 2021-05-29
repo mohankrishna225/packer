@@ -9,7 +9,7 @@
         "access_key": "{{user `access_key`}}",
         "secret_key": "{{user `secret_key`}}",
         "region": "us-east-1",
-        "ami_name": "ubuntu-env-nginx",
+        "ami_name": "Nginx-Ubuntu",
         "source_ami": "ami-09e67e426f25ce0d7",
         "instance_type": "t2.micro",
         "ssh_username": "ubuntu"
